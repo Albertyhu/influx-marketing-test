@@ -1,10 +1,19 @@
 @media screen and (min-width: 768px) {
+  .group-438 {
+    margin-top: 511px;
+    margin-bottom: 100px;
+  }
+
   #header-nav {
     diplay: block;
   }
   .advanced-aesthetics {
     font-size: 80px;
     line-height: 100px;
+  }
+
+  .rejuvenation-description {
+    height: 104px;
   }
 
   #dermal-screen {
@@ -31,11 +40,17 @@
   .frame-442 {
     width: fit-content;
     max-width: 500px;
-    top: 135px;
+    top: 80px;
     left: 101px;
     position: absolute;
     display: flex;
     text-wrap: wrap;
+  }
+
+  .frame-456 {
+    padding: 0px 0px 50px 0px;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
   }
 
   header nav {
@@ -46,5 +61,11 @@
   #mobile-nav {
     display: none;
     visibility: none;
+  }
+}
+
+@media screen and (min-width: 953px) {
+  .frame-442 {
+    top: 135px;
   }
 }
