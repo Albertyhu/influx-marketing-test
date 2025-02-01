@@ -30,6 +30,7 @@
   }
   #lasers-screen {
     background-image: url("../assets/images//webp-format/laser-treatment.webp");
+    background-position: bottom;
   }
   #microneedling-screen {
     background-image: url("../assets/images//webp-format/micro-needling.webp");
