@@ -1,0 +1,214 @@
+/* Frame 584 */
+.frame-584 {
+  position: relative;
+  width: 1600px;
+  height: 2042px;
+  background: #ffffff;
+}
+
+/* Group 438 */
+.group-438 {
+  position: absolute;
+  width: 1600px;
+  height: 1245px;
+  left: 0px;
+  top: 511px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Frame 582 */
+.frame-582 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 0px 835px;
+  gap: 100px;
+  position: absolute;
+  width: 1600px;
+  height: 1245px;
+  left: 0px;
+  top: 511px;
+  background: #ffffff;
+}
+
+/* Frame 562 */
+.frame-562 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 50px;
+  width: 1000px;
+  height: 277px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Frame 456 */
+.frame-456 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 25px;
+  width: 1000px;
+  height: 277px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 10px auto 30px;
+}
+
+/* Advanced Aesthetics */
+.advanced-aesthetics {
+  font-weight: 400 !important;
+}
+
+.advanced-aesthetics::before {
+  width: 1000px;
+  height: 100px;
+  font-family: "IvyPresto Display";
+  font-style: normal;
+
+  font-size: 80px;
+  line-height: 100px;
+  text-align: center;
+  background: linear-gradient(
+      71.49deg,
+      rgba(0, 0, 0, 0.5) 29.52%,
+      rgba(0, 0, 0, 0) 69.23%
+    ),
+    url(iStock-1151018428 Sml Dark.jpg), url(shutterstock_1905844537 sml.jpg);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* Rejuvenation Medical Aesthetics Procedures */
+.rejuvenation-procedures {
+  width: 1000px;
+  height: 23px;
+  font-family: "Poppins";
+  font-style: italic;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #d3a79d;
+  text-shadow: 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000,
+    1px -1px 0 #000;
+  /* text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+/* Rejuvenation Medical Aesthetics Description */
+.rejuvenation-description {
+  width: 800px;
+  height: 104px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 26px;
+  color: #000000;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+/* Group 418 */
+.group-418 {
+  width: 1600px;
+  height: 801px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+/* Frame 439 */
+.frame-439 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 65px;
+  position: absolute;
+  width: 1600px;
+  height: 801px;
+  left: 0px;
+  top: 377px;
+}
+
+/* Frame 90 */
+.frame-90 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0px 0px 0px 100px;
+  gap: 60px;
+  width: 1500px;
+  height: 36px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Group 140 */
+.group-140 {
+  margin: 0 auto;
+  width: 158px;
+  height: 36px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+/* Dermal Fillers */
+.dermal-fillers {
+  position: absolute;
+  width: 139px;
+  height: 36px;
+  right: 1261px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: right;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  color: #d3a79d;
+}
+
+/* CoolSculpting Elite */
+.coolsculpting-elite {
+  position: absolute;
+  width: 193px;
+  height: 36px;
+  right: 950.8px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: right;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  color: #000000;
+}

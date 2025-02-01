@@ -1,0 +1,50 @@
+@media screen and (min-width: 768px) {
+  #header-nav {
+    diplay: block;
+  }
+  .advanced-aesthetics {
+    font-size: 80px;
+    line-height: 100px;
+  }
+
+  #dermal-screen {
+    background-image: url("../assets/images/webp-format/dermal-fillers.webp");
+  }
+
+  #coolsculpting-screen {
+    background-image: url("../assets/images//webp-format/coolsculpting.webp");
+  }
+  #QWO-screen {
+    background-image: url("../assets/images//webp-format/qwo.webp");
+  }
+  #lasers-screen {
+    background-image: url("../assets/images//webp-format/laser-treatment.webp");
+  }
+  #microneedling-screen {
+    background-image: url("../assets/images//webp-format/micro-needling.webp");
+  }
+
+  #botox-screen {
+    background-image: url("../assets/images//webp-format/botox.webp");
+  }
+
+  .frame-442 {
+    width: fit-content;
+    max-width: 500px;
+    top: 135px;
+    left: 101px;
+    position: absolute;
+    display: flex;
+    text-wrap: wrap;
+  }
+
+  header nav {
+    display: block;
+  }
+
+  #mobile-icon,
+  #mobile-nav {
+    display: none;
+    visibility: none;
+  }
+}
